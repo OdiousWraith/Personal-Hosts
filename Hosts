@@ -33,4 +33,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 pandora.com
 0.0.0.0 mediaserver-cont-ch1-2-v4v6.pandora.com
-
+0.0.0.0 soundcloud.com/audio-ad?
+0.0.0.0 soundcloud.com/promoted/
+0.0.0.0 pandora.com/static/ads/
+0.0.0.0 adserver.pandora.com
