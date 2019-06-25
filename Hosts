@@ -21,6 +21,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 edge-star6-shv-02-dfw5.facebook.com
+0.0.0.0 edge-star-shv-02-dfw5.facebook.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
@@ -32,3 +33,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 pandora.com
 0.0.0.0 mediaserver-cont-ch1-2-v4v6.pandora.com
+
