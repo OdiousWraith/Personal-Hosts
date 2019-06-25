@@ -1,9 +1,7 @@
 # Project release: 1.0
 # Collecting Personal URLs worth blocking on DNS66
 # ===============================================================
-
 127.0.0.1 localhost
-
 # ===============================================================
 
 127.0.0.1 adservice.google.com.vn
@@ -24,3 +22,5 @@
 127.0.0.1 soundcloud.com/promoted/
 127.0.0.1 pandora.com/static/ads/
 127.0.0.1 adserver.pandora.com
+
+#Testing for faults
