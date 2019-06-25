@@ -87,7 +87,24 @@
 127.0.0.1 mobiledl.adobe.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 gemini.yahoo.com
-127.0.0.1 www.cnn.com
+
+# [soundcloud]
+127.0.0.1 www.pandora.com
+127.0.0.1 pandora.com
+127.0.0.1 edge-star6-shv-02-dfw5.facebook.com
+127.0.0.1 edge-star-shv-02-dfw5.facebook.com
+127.0.0.1 www.scorecardresearch.com
+127.0.0.1 www.myvisualiq.net
+127.0.0.1 www.quantserve.com
+127.0.0.1 pixel.quantserve.com
+127.0.0.1 promoted.soundcloud.com
+127.0.0.1 soundcloud-pax.pandora.com
+127.0.0.1 mediaserver-cont-ch1-2-v4v6.pandora.com
+127.0.0.1 adverver.pandora.com
+127.0.0.1 www.soundcloud.com/audio-ad?
+127.0.0.1 www.soundcloud.com/promoted/
+127.0.0.1 www.pandora.com/static/ads/
+127.0.0.1 adserver.pandora.com
 
 # [hosted on cloudfront]
 127.0.0.1 d3anogn3pbtk4v.cloudfront.net
