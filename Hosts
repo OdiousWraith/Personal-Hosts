@@ -1,0 +1,34 @@
+# Project release: 1.0
+# Collecting Personal URLs worth blocking on DNS66
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# ===============================================================
+
+0.0.0.0 adservice.google.com.vn
+0.0.0.0 edge-star6-shv-02-dfw5.facebook.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 myvisualiq.net
+0.0.0.0 quantserve.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 promoted.soundcloud.com
+0.0.0.0 soundcloud-pax.pandora.com
+0.0.0.0 pandora.com
+0.0.0.0 mediaserver-cont-ch1-2-v4v6.pandora.com
